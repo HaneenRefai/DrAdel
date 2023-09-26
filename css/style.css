@@ -1,0 +1,266 @@
+body{
+    font-family: sans-serif;
+}
+.long-line{
+    height: 260px;
+    width: 6px;
+    background-color: #de9b37;
+    margin-left: 20px;
+}
+.q{
+    color: #de9b37;
+    font-size: 38px;
+    margin-left: 18px;
+}
+.pp p{
+    margin-left: 15px;
+    font-size: 20px;
+    color: rgb(73, 73, 73);
+}
+.sec1{
+    margin-left: 30px;
+}
+.sec2 img{
+    margin-right: 70px;
+    border-radius: 15px;
+}
+.small-line{
+    height: 30px;
+    width: 6px;
+    background-color: #de9b37;
+    margin-left: 20px;
+}
+.small h3{
+    color: #de9b37;
+    font-size: 24px;
+    margin-left: 15px;
+}
+nav{
+    background-color: white;
+    width: 100%;
+    height: 55px;
+}
+nav ul{
+    display: flex;
+}
+nav ul .logo{
+    padding: 10px;
+    margin-left: 10px;
+    width: 150px;
+    height: 70px;
+}
+nav ul div{
+    display: flex;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+ul div li{
+    list-style: none;
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-left: 40px;
+}
+ul li{
+    list-style: none;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+    margin-left: 220px;
+    margin-top: 20px;
+}
+nav h2{
+    color: #9e3922;
+    margin-left: 18px;
+    margin-top: 10px;
+    font-size: 26px;
+}
+.hh{
+    font-family: Cairo;
+    position: absolute;
+    left: 1100px;
+    font-size: 18px;
+    top: 10px;
+}
+.cards-sec{
+    background-color: #f4f7fd;
+    width: 100%;
+    height: 600px;
+}
+.card{
+    width: 160px;
+    height: 200px;
+    border: 2px solid #fff;
+    margin-left: 30px;
+}
+.card img{
+    margin-top: 20px;
+    width: 75px;
+    margin-left: 40px;
+}
+.des{
+    color: rgb(1, 1, 48);
+    font-size: 17px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+.row1{
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.row2{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.fir{
+    width: 500px;
+    height: 400px;
+   background-color: #DE9B37;
+   box-sizing: border-box;
+}
+.te{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 22px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.hr{
+    color: white;
+    width: 85px;
+    margin-left: 70px;
+}
+pre{
+    color: white;
+    margin-top: -50px;
+    margin-left: 0px;
+    font-family: sans-serif;
+}
+.btn-1{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-weight: 100;
+    font-size: 17px;
+    margin-left: 70px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+.sec{
+    width: 500px;
+    height: 400px;
+   background-color: #de9b37d5;
+   box-sizing: border-box;
+}
+.btn-2{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-weight: 100;
+    font-size: 17px;
+    margin-left: 70px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: -9px;
+}
+.hr-3{
+    color: white;
+    width: 285px;
+    margin-left: 70px;
+}
+.thi{
+    width: 500px;
+    height: 400px;
+    background-color: #de9b37b4;
+    box-sizing: border-box;
+
+}
+.p{
+    margin-left: 30px;
+}
+.grid-container{
+    display: flex;
+    grid-template-columns: auto auto auto;
+    padding-left: 10px;
+}
+.grid-item{
+    background-color: #f5deb363;
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    width: 220px;
+    height: 300px;
+    border-radius: 7px;
+}
+.grid{
+    display: flex;
+    grid-template-columns: auto auto auto;
+    padding-left: 120px;
+}
+.grid-item img{
+       width: 100px;
+       height: 100px;
+}
+.neb-cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.neb-cart{
+    color: #9e3922;
+    display: flex;
+    justify-content: center;
+}
+.neb-cards img{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px 10px 0px 0px;
+}
+.white-shadow{
+    width: 400px;
+    height: 100px;
+    border: 1px solid rgba(58, 55, 55, 0.543);
+}
+.white-shadow h5{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.white-shadow button{
+    background-color: white;
+    border: solid white;
+    margin-top: 10px;
+    color: #DE9B37;
+    margin-left: 20px;
+}
+.third h5{
+    margin-left: 160px;
+}
+.place{
+    background-color: #DE9B37;
+    width: 450px;
+    margin-top: 20px;
+    height: 220px;
+}
+.pl{
+    margin-left: 12px;
+    margin-top: 35px;
+}
+.photo img{
+    width: 220px;
+    height: 170px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+.gg6{
+    color: white;
+    background-color: #9e3922;
+    border: 1px solid #963e2b;
+    margin-left: 560px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+
